@@ -1,0 +1,11 @@
+h1  {
+    text-align: center;
+    border-style: groove;
+    border-color: blueviolet;
+    border-width: 10px;
+}
+
+p   {
+    resize:both;
+    text-shadow: 4px 4px 3px violet;
+}
